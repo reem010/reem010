@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 <h2> Hello! ✨ it's Reem ✨ </h2>
 
 
-![Avatar1](https://user-images.githubusercontent.com/108128985/177390650-6875bf79-17e9-4ca1-9c02-3a3cee0fd0a9.jpg)
+![fbavatar_1657048112755_6950163527522999501](https://user-images.githubusercontent.com/108128985/177398447-2d988737-4408-445e-ac7c-866fd6d8cb75.png)
+
 <br>
 I study Computer Sciecne & Artificial Intelligence at <a href="https://cu.edu.eg/Home">Cairo University</a>.    
 </p>
