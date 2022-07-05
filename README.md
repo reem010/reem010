@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p>
 <h2> Hello! ✨ it's Reem ✨ </h2>
-I study Computer Sciecne & Artificial Intelligence at <a href="[Cairo University](https://cu.edu.eg/Home)">Cairo University</a>.  
+I study Computer Sciecne & Artificial Intelligence at <a href="https://cu.edu.eg/Home">Cairo University</a>.  
     
 </p>
 
