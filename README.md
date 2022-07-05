@@ -14,16 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<body background="![cherryblossom_1](https://user-images.githubusercontent.com/108128985/177260818-16868463-d471-4481-840c-d173e8d0f7fd.jpg)
-">
+<body>
 <div align="center">
 
 <p>
 <h2> Hello! ✨ it's Reem ✨ </h2>
-I study Computer Sciecne & Artificial Intelligence at <a href="https://cu.edu.eg/Home">Cairo University</a>.  
-    
+I study Computer Sciecne & Artificial Intelligence at <a href="https://cu.edu.eg/Home">Cairo University</a>.    
 </p>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 <br />
 
