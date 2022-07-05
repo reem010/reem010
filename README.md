@@ -1,19 +1,4 @@
 
-
-<!--
-**reem010/reem010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <body>
 <div align="center">
 
@@ -36,3 +21,57 @@ I study Computer Sciecne & Artificial Intelligence at <a href="https://cu.edu.eg
 <br />
 </div>
 </body>
+
+<!--
+ class Reem 
+  {  
+      string name;  
+      int age;  
+      string eyeColor;  
+      string face;  
+      string height;  
+  public:  
+      Reem()                                  
+      {  
+          name = "Reem Ahmed";  
+          age = 20;  
+          eyeColor = "Green";  
+          face = "angry one";  
+          height = "short XD";  
+      }  
+      // Warning too dangrous!  
+      void Reems_dangerous_weapon()  
+      {  
+          cout << "Can hack you"<<endl;    
+      }  
+      void Reems_cool_things()  
+      {  
+          cout << "A cool music list"<<endl;  
+          cout << "A very cool Marceline cosplay"<<endl;  
+          cout << "A cool bowling skills xD" << endl;  
+          cout << "A cool watch"<<endl;  
+          cout << "A broken guiter"<<endl;  
+          cout << "Hates humans" << endl;  
+      }  
+      void someHobbies()  
+     {  
+          cout << "painting" << endl;  
+          cout << "listening to music" << endl;  
+     }  
+  };  
+
+
+
+**reem010/reem010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
