@@ -23,7 +23,7 @@ I study Computer Sciecne & Artificial Intelligence at <a href="https://cu.edu.eg
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="" width="600" height="300"/>
 </div>
 
 <br />
