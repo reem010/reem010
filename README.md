@@ -9,7 +9,7 @@
 
 
 <br>
-I study Computer Sciecne & Artificial Intelligence at <a href="https://cu.edu.eg/Home">Cairo University</a>.    
+I study Artificial Intelligence at Cairo University</a>.    
 </p>
 
 <br />
