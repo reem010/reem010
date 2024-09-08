@@ -9,7 +9,7 @@
 
 
 <br>
-I study Artificial Intelligence at Cairo University</a>.    
+An Artificial Intelligence graduate with hands-on experience in a variety of Ai projects</a>.    
 </p>
 
 <br />
