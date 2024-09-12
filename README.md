@@ -20,7 +20,6 @@ An Artificial Intelligence graduate with hands-on experience in a variety of Ai 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/reem-ahmed-204464243/)
-[![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/31aynfi54vb3f7mrxav4d64pqfma)
 
 <br />
 </div>
@@ -36,4 +35,7 @@ An Artificial Intelligence graduate with hands-on experience in a variety of Ai 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/31aynfi54vb3f7mrxav4d64pqfma)
+ 
 -->
