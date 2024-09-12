@@ -5,7 +5,11 @@
 <p>
 <h2> Hello! ✨ it's Reem ✨ </h2>
 
-![fbavatar_1684045024707_7063396783310737937](https://github.com/reem010/reem010/assets/108128985/f2c8d9c1-fdcc-4f41-901c-eb1fddacf649)
+
+
+https://github.com/user-attachments/assets/558a459d-2920-45d0-8741-c8fd40c9ebad
+
+
 
 
 <br>
@@ -23,6 +27,7 @@ An Artificial Intelligence graduate with hands-on experience in a variety of Ai 
 </body>
 
 <!--
+![fbavatar_1684045024707_7063396783310737937](https://github.com/reem010/reem010/assets/108128985/f2c8d9c1-fdcc-4f41-901c-eb1fddacf649)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
