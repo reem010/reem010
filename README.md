@@ -3,7 +3,7 @@
 <div align="center">
 
 <p>
-<h2> Hello! ✨ it's Reem ✨ </h2>
+<h2> Hello! it's Reem </h2>
 
 
 
