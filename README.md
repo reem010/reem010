@@ -18,8 +18,7 @@ An Artificial Intelligence graduate with hands-on experience in a variety of Ai 
 
 <br />
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/reem-ahmed-204464243/)
+
 
 <br />
 </div>
